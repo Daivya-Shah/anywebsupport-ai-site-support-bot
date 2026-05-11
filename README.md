@@ -118,9 +118,3 @@ The chat interface can be switched between:
 - French (Français)
 - Chinese Simplified (中文)
 - Hindi (हिन्दी)
-
----
-
-## Feedback
-
-After a chat session, users can click "Give Feedback" to submit a star rating and comment. Feedback is stored in the `feedback` collection in Firebase Firestore.
